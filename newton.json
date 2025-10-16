@@ -1,0 +1,10 @@
+{
+  "description": "Netech Portfolio website",
+  "repo": "newtonfalcon/netechportfolio",
+  "owner": {
+    "username": "Newtonfalcon"
+  },
+  "record": {
+    "CNAME": "Newtonfalcon.github.io"
+  }
+}
